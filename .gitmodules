@@ -1,0 +1,3 @@
+[submodule "Safe-Parser"]
+	path = Safe-Parser
+	url = https://github.com/Aroize/Safe-Parser
