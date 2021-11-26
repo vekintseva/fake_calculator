@@ -218,8 +218,3 @@ void run_var_test() {
     run_subtract_test();
     run_mult_test();
 }
-
-int main() {
-    run_var_test();
-    return 0;
-}
